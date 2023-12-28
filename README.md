@@ -1,2 +1,1 @@
-# Whatsapp-chat-analyzer
-A streamlit app to analyze your whatsapp chats
+A WhatsApp chat analyzer is a tool or application designed to examine and extract meaningful information from the textual content of WhatsApp conversations. This type of software typically involves the processing and analysis of exported chat data to offer insights into various aspects of the communication within a chat group or individual chat. 
